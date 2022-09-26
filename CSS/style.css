@@ -1,0 +1,164 @@
+body{
+    background-color: #ffffff;
+    /* flex-wrap: wrap; */
+    
+}
+
+.head{
+    background-color:transparent;
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    color:black;
+    display: inline;
+    /* width: 300px; */
+}
+
+
+.not-found{
+    margin: 5px;
+    /* font-size: 14px; */
+    /* width: 133px;
+    height: 25px; */
+    /* top: 40px;
+    left: 77px; */
+   font-family: 'Inconsolata';
+   font-weight: 700;
+   line-height: 25px;
+   letter-spacing: -0.08em;
+   font-size: 24px;
+   text-transform: uppercase;
+   
+   
+}
+
+
+#major{
+    /* background-color: black; */
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 70px;
+}
+
+.image{
+    /* background-color: red; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    background-image: url("/images/Scarecrow.png");
+}
+
+.scarecrow{
+    width: 539.22px;
+    height: 447.43px;
+    top: 265px;
+    left: 77px; 
+    position: absolute;
+    left: 5.35%;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%; 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row; 
+}
+
+.body{
+    /* background-color: yellow; */
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+}
+.paragraph{
+    width: 400px;
+    height: 108px;
+    top: 491px;
+    left: 736px;
+   font-family: monospace;
+   font-weight: 400;
+   line-height: 35.54px;
+   letter-spacing: -3.5%;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+}
+
+.news{
+    width: 586px;
+    height: 190px;
+    top: 265px;
+    left: 735px;
+   font-family: monospace;
+   font-weight: 700;
+   line-height: 94.78px;
+   letter-spacing: -3.5%;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+}
+
+ /* button{
+    height: 68px;
+    width: 216px;
+    left: 740px;
+    top: 600px;
+    border-radius: 0px;
+    position: absolute; 
+    background: #333333;
+     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row; 
+   
+} */
+
+/* .back-button{
+    color: white;
+    text-transform: uppercase;
+    align-content: center;
+   
+} */
+
+
+
+/* #footer{
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    left: 450px;
+    width: 287px;
+    height: 17px;
+    top: 980px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #BDBDBD;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+   
+}
+
+footer{
+    margin: 100px;
+}
+
+#button{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
+
+
+
+
+
